@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Female to Male Unpaid Care Work Ratio Map</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    const spec = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 800,
+      "height": 600,
+      "projection": {
+        "type": "equalEarth"
+      },
+      "layer": [
+        {
+          "data": {
+            "url": "https://vega.github.io/vega-datasets/data/world-110m.json",
+            "format": {
+              "type": "topojson",
+              "feature": "countries"
+            }
+          },
+          "mark": {
+            "type": "geoshape",
+            "fill": "lightgray",
+            "stroke": "white"
+          }
+        },
+        {
+          "data": {
+            "url": "https://github.com/sheharahewawasam/fit3179/raw/refs/heads/main/female-employment-to-population-ratio.json"  // Replace with your actual data URL
+          },
+          "transform": [
+            {
+              "lookup": "Code",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/sheharahewawasam/fit3179/refs/heads/main/ne_50m_admin_0_countries.json"  // URL to a dataset that has country codes with their latitudes and longitudes
+                },
+                "key": "ISO_A3",
+                "fields": ["latitude", "longitude"]
+              }
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "red",
+            "opacity": 0.8
+          },
+          "encoding": {
+            "longitude": {"field": "longitude", "type": "quantitative"},
+            "latitude": {"field": "latitude", "type": "quantitative"},
+            "size": {
+              "field": "ratio",
+              "type": "quantitative",
+              "scale": {
+                "type": "sqrt",
+                "range": [0, 1000]
+              }
+            },
+            "tooltip": [
+              {"field": "country", "type": "nominal"},
+              {"field": "ratio", "type": "quantitative", "title": "Female to Male Ratio"}
+            ]
+          }
+        }
+      ]
+    };
+
+    vegaEmbed("#vis", spec).then((result) => {
+      // Console logging
+      result.view.data('data_3').then((data) => {
+        console.log("Unpaid Care Work Ratio by Country:");
+        data.forEach(d => {
+          console.log(`${d.country}: ${d.ratio}`);
+        });
+      });
+    });
+  </script>
+</body>
+</html>
