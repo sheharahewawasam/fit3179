@@ -1,0 +1,2888 @@
+[
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 7.3453736,
+        "longitude-latitude": "Afghanistan",
+        "FIELD2": "AFG",
+        "FIELD3": "33.93911",
+        "FIELD4": "67.709953"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.034355,
+        "longitude-latitude": "Albania",
+        "FIELD2": "ALB",
+        "FIELD3": "41.153332",
+        "FIELD4": "20.168331"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 24.599638,
+        "longitude-latitude": "Algeria",
+        "FIELD2": "DZA",
+        "FIELD3": "28.033886",
+        "FIELD4": "1.659626"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 93.38607,
+        "longitude-latitude": "Angola",
+        "FIELD2": "AGO",
+        "FIELD3": "-11.202692",
+        "FIELD4": "17.873887"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 70.94302,
+        "longitude-latitude": "Argentina",
+        "FIELD2": "ARG",
+        "FIELD3": "-38.416097",
+        "FIELD4": "-63.616672"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.906624,
+        "longitude-latitude": "Armenia",
+        "FIELD2": "ARM",
+        "FIELD3": "40.069099",
+        "FIELD4": "45.038189"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.257965,
+        "longitude-latitude": "Australia",
+        "FIELD2": "AUS",
+        "FIELD3": "-25.274398",
+        "FIELD4": "133.775136"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.79519,
+        "longitude-latitude": "Austria",
+        "FIELD2": "AUT",
+        "FIELD3": "47.516231",
+        "FIELD4": "14.550072"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 91.871666,
+        "longitude-latitude": "Azerbaijan",
+        "FIELD2": "AZE",
+        "FIELD3": "40.143105",
+        "FIELD4": "47.576927"
+    },
+    {
+        "Entity": "Bahamas",
+        "Code": "BHS",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.90662,
+        "longitude-latitude": "Bahamas",
+        "FIELD2": "BHS",
+        "FIELD3": "25.03428",
+        "FIELD4": "-77.39628"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 50.35308,
+        "longitude-latitude": "Bahrain",
+        "FIELD2": "BHR",
+        "FIELD3": "25.930414",
+        "FIELD4": "50.637772"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 46.12119,
+        "longitude-latitude": "Bangladesh",
+        "FIELD2": "BGD",
+        "FIELD3": "23.684994",
+        "FIELD4": "90.356331"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 88.25964,
+        "longitude-latitude": "Barbados",
+        "FIELD2": "BRB",
+        "FIELD3": "13.193887",
+        "FIELD4": "-59.543198"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 82.81063,
+        "longitude-latitude": "Belarus",
+        "FIELD2": "BLR",
+        "FIELD3": "53.709807",
+        "FIELD4": "27.953389"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 85.378105,
+        "longitude-latitude": "Belgium",
+        "FIELD2": "BEL",
+        "FIELD3": "50.503887",
+        "FIELD4": "4.469936"
+    },
+    {
+        "Entity": "Belize",
+        "Code": "BLZ",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 64.8838,
+        "longitude-latitude": "Belize",
+        "FIELD2": "BLZ",
+        "FIELD3": "17.189877",
+        "FIELD4": "-88.49765"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 82.34212,
+        "longitude-latitude": "Benin",
+        "FIELD2": "BEN",
+        "FIELD3": "9.30769",
+        "FIELD4": "2.315834"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 87.42073,
+        "longitude-latitude": "Bhutan",
+        "FIELD2": "BTN",
+        "FIELD3": "27.514162",
+        "FIELD4": "90.433601"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 71.981224,
+        "longitude-latitude": "Bolivia",
+        "FIELD2": "BOL",
+        "FIELD3": "-16.290154",
+        "FIELD4": "-63.588653"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 66.58406,
+        "longitude-latitude": "Bosnia and Herzegovina",
+        "FIELD2": "BIH",
+        "FIELD3": "43.915886",
+        "FIELD4": "17.679076"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.15726,
+        "longitude-latitude": "Botswana",
+        "FIELD2": "BWA",
+        "FIELD3": "-22.328474",
+        "FIELD4": "24.684866"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 72.989655,
+        "longitude-latitude": "Brazil",
+        "FIELD2": "BRA",
+        "FIELD3": "-14.235004",
+        "FIELD4": "-51.92528"
+    },
+    {
+        "Entity": "Brunei",
+        "Code": "BRN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 75.54347,
+        "longitude-latitude": "Brunei",
+        "FIELD2": "BRN",
+        "FIELD3": "4.535277",
+        "FIELD4": "114.727669"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 80.189545,
+        "longitude-latitude": "Bulgaria",
+        "FIELD2": "BGR",
+        "FIELD3": "42.733883",
+        "FIELD4": "25.48583"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 79.11623,
+        "longitude-latitude": "Burkina Faso",
+        "FIELD2": "BFA",
+        "FIELD3": "12.238333",
+        "FIELD4": "-1.561593"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 99.81373,
+        "longitude-latitude": "Burundi",
+        "FIELD2": "BDI",
+        "FIELD3": "-3.373056",
+        "FIELD4": "29.918886"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.34865,
+        "longitude-latitude": "Cambodia",
+        "FIELD2": "KHM",
+        "FIELD3": "12.565679",
+        "FIELD4": "104.990963"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 87.6636,
+        "longitude-latitude": "Cameroon",
+        "FIELD2": "CMR",
+        "FIELD3": "7.369722",
+        "FIELD4": "12.354722"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 88.141205,
+        "longitude-latitude": "Canada",
+        "FIELD2": "CAN",
+        "FIELD3": "56.130366",
+        "FIELD4": "-106.346771"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.09312,
+        "longitude-latitude": "Cape Verde",
+        "FIELD2": "CPV",
+        "FIELD3": "16.002082",
+        "FIELD4": "-24.013197"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.21282,
+        "longitude-latitude": "Central African Republic",
+        "FIELD2": "CAF",
+        "FIELD3": "6.611111",
+        "FIELD4": "20.939444"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 67.135666,
+        "longitude-latitude": "Chad",
+        "FIELD2": "TCD",
+        "FIELD3": "15.454166",
+        "FIELD4": "18.732207"
+    },
+    {
+        "Entity": "Channel Islands",
+        "Code": "OWID_CIS",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.01244
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 70.973915,
+        "longitude-latitude": "Chile",
+        "FIELD2": "CHL",
+        "FIELD3": "-35.675147",
+        "FIELD4": "-71.542969"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.13868,
+        "longitude-latitude": "China",
+        "FIELD2": "CHN",
+        "FIELD3": "35.86166",
+        "FIELD4": "104.195397"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 67.065125,
+        "longitude-latitude": "Colombia",
+        "FIELD2": "COL",
+        "FIELD3": "4.570868",
+        "FIELD4": "-74.297333"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 59.59563,
+        "longitude-latitude": "Comoros",
+        "FIELD2": "COM",
+        "FIELD3": "-11.875001",
+        "FIELD4": "43.872219"
+    },
+    {
+        "Entity": "Congo",
+        "Code": "COG",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 97.06939,
+        "longitude-latitude": "Congo",
+        "FIELD2": "COG",
+        "FIELD3": "-0.228021",
+        "FIELD4": "15.827659"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 68.7434,
+        "longitude-latitude": "Costa Rica",
+        "FIELD2": "CRI",
+        "FIELD3": "9.748917",
+        "FIELD4": "-83.753428"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.02858
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 80.4117,
+        "longitude-latitude": "Croatia",
+        "FIELD2": "HRV",
+        "FIELD3": "45.1",
+        "FIELD4": "15.2"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 58.083084,
+        "longitude-latitude": "Cuba",
+        "FIELD2": "CUB",
+        "FIELD3": "21.521757",
+        "FIELD4": "-77.781167"
+    },
+    {
+        "Entity": "Cyprus",
+        "Code": "CYP",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.94441,
+        "longitude-latitude": "Cyprus",
+        "FIELD2": "CYP",
+        "FIELD3": "35.126413",
+        "FIELD4": "33.429859"
+    },
+    {
+        "Entity": "Czechia",
+        "Code": "CZE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 76.87812,
+        "longitude-latitude": "Czechia",
+        "FIELD2": "CZE",
+        "FIELD3": "49.817492",
+        "FIELD4": "15.472962"
+    },
+    {
+        "Entity": "Democratic Republic of Congo",
+        "Code": "COD",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 90.800385
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 88.12994,
+        "longitude-latitude": "Denmark",
+        "FIELD2": "DNK",
+        "FIELD3": "56.26392",
+        "FIELD4": "9.501785"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 39.8383,
+        "longitude-latitude": "Djibouti",
+        "FIELD2": "DJI",
+        "FIELD3": "11.825138",
+        "FIELD4": "42.590275"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 66.11778,
+        "longitude-latitude": "Dominican Republic",
+        "FIELD2": "DOM",
+        "FIELD3": "18.735693",
+        "FIELD4": "-70.162651"
+    },
+    {
+        "Entity": "East Asia and Pacific (WB)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 79.944565
+    },
+    {
+        "Entity": "East Timor",
+        "Code": "TLS",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.45883
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 69.85434,
+        "longitude-latitude": "Ecuador",
+        "FIELD2": "ECU",
+        "FIELD3": "-1.831239",
+        "FIELD4": "-78.183406"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 22.797832,
+        "longitude-latitude": "Egypt",
+        "FIELD2": "EGY",
+        "FIELD3": "26.820553",
+        "FIELD4": "30.802498"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 60.110558,
+        "longitude-latitude": "El Salvador",
+        "FIELD2": "SLV",
+        "FIELD3": "13.794185",
+        "FIELD4": "-88.89653"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.34298,
+        "longitude-latitude": "Equatorial Guinea",
+        "FIELD2": "GNQ",
+        "FIELD3": "1.650801",
+        "FIELD4": "10.267895"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.235435,
+        "longitude-latitude": "Eritrea",
+        "FIELD2": "ERI",
+        "FIELD3": "15.179384",
+        "FIELD4": "39.782334"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.97627,
+        "longitude-latitude": "Estonia",
+        "FIELD2": "EST",
+        "FIELD3": "58.595272",
+        "FIELD4": "25.013607"
+    },
+    {
+        "Entity": "Eswatini",
+        "Code": "SWZ",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.36455,
+        "longitude-latitude": "Eswatini",
+        "FIELD2": "SWZ",
+        "FIELD3": "-26.522503",
+        "FIELD4": "31.465866"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.949585,
+        "longitude-latitude": "Ethiopia",
+        "FIELD2": "ETH",
+        "FIELD3": "9.145",
+        "FIELD4": "40.489673"
+    },
+    {
+        "Entity": "Europe and Central Asia (WB)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.2937
+    },
+    {
+        "Entity": "European Union (27)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.75968
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 50.33287,
+        "longitude-latitude": "Fiji",
+        "FIELD2": "FJI",
+        "FIELD3": "-16.578193",
+        "FIELD4": "179.414413"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 90.000946,
+        "longitude-latitude": "Finland",
+        "FIELD2": "FIN",
+        "FIELD3": "61.92411",
+        "FIELD4": "25.748151"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 87.27817,
+        "longitude-latitude": "France",
+        "FIELD2": "FRA",
+        "FIELD3": "46.227638",
+        "FIELD4": "2.213749"
+    },
+    {
+        "Entity": "French Polynesia",
+        "Code": "PYF",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.64472,
+        "longitude-latitude": "French Polynesia",
+        "FIELD2": "PYF",
+        "FIELD3": "-17.679742",
+        "FIELD4": "-149.406843"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 68.97244,
+        "longitude-latitude": "Gabon",
+        "FIELD2": "GAB",
+        "FIELD3": "-0.803689",
+        "FIELD4": "11.609444"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 85.499405,
+        "longitude-latitude": "Gambia",
+        "FIELD2": "GMB",
+        "FIELD3": "13.443182",
+        "FIELD4": "-15.310139"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 75.29512,
+        "longitude-latitude": "Georgia",
+        "FIELD2": "GEO",
+        "FIELD3": "42.315407",
+        "FIELD4": "43.356892"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.23445,
+        "longitude-latitude": "Germany",
+        "FIELD2": "DEU",
+        "FIELD3": "51.165691",
+        "FIELD4": "10.451526"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 90.0576,
+        "longitude-latitude": "Ghana",
+        "FIELD2": "GHA",
+        "FIELD3": "7.946527",
+        "FIELD4": "-1.023194"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 76.2917,
+        "longitude-latitude": "Greece",
+        "FIELD2": "GRC",
+        "FIELD3": "39.074208",
+        "FIELD4": "21.824312"
+    },
+    {
+        "Entity": "Guam",
+        "Code": "GUM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.89567,
+        "longitude-latitude": "Guam",
+        "FIELD2": "GUM",
+        "FIELD3": "13.444304",
+        "FIELD4": "144.793731"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 50.16332,
+        "longitude-latitude": "Guatemala",
+        "FIELD2": "GTM",
+        "FIELD3": "15.783471",
+        "FIELD4": "-90.230759"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 66.48916,
+        "longitude-latitude": "Guinea",
+        "FIELD2": "GIN",
+        "FIELD3": "9.945587",
+        "FIELD4": "-9.696645"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 76.907684,
+        "longitude-latitude": "Guinea-Bissau",
+        "FIELD2": "GNB",
+        "FIELD3": "11.803749",
+        "FIELD4": "-15.180413"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 62.649998,
+        "longitude-latitude": "Guyana",
+        "FIELD2": "GUY",
+        "FIELD3": "4.860416",
+        "FIELD4": "-58.93018"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.10338,
+        "longitude-latitude": "Haiti",
+        "FIELD2": "HTI",
+        "FIELD3": "18.971187",
+        "FIELD4": "-72.285215"
+    },
+    {
+        "Entity": "High-income countries",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 80.0405
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 65.891136,
+        "longitude-latitude": "Honduras",
+        "FIELD2": "HND",
+        "FIELD3": "15.199999",
+        "FIELD4": "-86.241905"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.76546,
+        "longitude-latitude": "Hong Kong",
+        "FIELD2": "HKG",
+        "FIELD3": "22.396428",
+        "FIELD4": "114.109497"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.90197,
+        "longitude-latitude": "Hungary",
+        "FIELD2": "HUN",
+        "FIELD3": "47.162494",
+        "FIELD4": "19.503304"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 90.01267,
+        "longitude-latitude": "Iceland",
+        "FIELD2": "ISL",
+        "FIELD3": "64.963051",
+        "FIELD4": "-19.020835"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 37.115875,
+        "longitude-latitude": "India",
+        "FIELD2": "IND",
+        "FIELD3": "20.593684",
+        "FIELD4": "78.96288"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 64.456795,
+        "longitude-latitude": "Indonesia",
+        "FIELD2": "IDN",
+        "FIELD3": "-0.789275",
+        "FIELD4": "113.921327"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 19.33439,
+        "longitude-latitude": "Iran",
+        "FIELD2": "IRN",
+        "FIELD3": "32.427908",
+        "FIELD4": "53.688046"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 15.367235,
+        "longitude-latitude": "Iraq",
+        "FIELD2": "IRQ",
+        "FIELD3": "33.223191",
+        "FIELD4": "43.679291"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.23322,
+        "longitude-latitude": "Ireland",
+        "FIELD2": "IRL",
+        "FIELD3": "53.41291",
+        "FIELD4": "-8.24389"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 89.21859,
+        "longitude-latitude": "Israel",
+        "FIELD2": "ISR",
+        "FIELD3": "31.046051",
+        "FIELD4": "34.851612"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 70.05183,
+        "longitude-latitude": "Italy",
+        "FIELD2": "ITA",
+        "FIELD3": "41.87194",
+        "FIELD4": "12.56738"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 79.66279,
+        "longitude-latitude": "Jamaica",
+        "FIELD2": "JAM",
+        "FIELD3": "18.109581",
+        "FIELD4": "-77.297508"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 75.91109,
+        "longitude-latitude": "Japan",
+        "FIELD2": "JPN",
+        "FIELD3": "36.204824",
+        "FIELD4": "138.252924"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 21.740309,
+        "longitude-latitude": "Jordan",
+        "FIELD2": "JOR",
+        "FIELD3": "30.585164",
+        "FIELD4": "36.238414"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.85234,
+        "longitude-latitude": "Kazakhstan",
+        "FIELD2": "KAZ",
+        "FIELD3": "48.019573",
+        "FIELD4": "66.923684"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 95.66534,
+        "longitude-latitude": "Kenya",
+        "FIELD2": "KEN",
+        "FIELD3": "-0.023559",
+        "FIELD4": "37.906193"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 55.202103,
+        "longitude-latitude": "Kuwait",
+        "FIELD2": "KWT",
+        "FIELD3": "29.31166",
+        "FIELD4": "47.481766"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 67.6576,
+        "longitude-latitude": "Kyrgyzstan",
+        "FIELD2": "KGZ",
+        "FIELD3": "41.20438",
+        "FIELD4": "74.766098"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 88.43546,
+        "longitude-latitude": "Laos",
+        "FIELD2": "LAO",
+        "FIELD3": "19.85627",
+        "FIELD4": "102.495496"
+    },
+    {
+        "Entity": "Latin America and Caribbean (WB)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 68.47364
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.88535,
+        "longitude-latitude": "Latvia",
+        "FIELD2": "LVA",
+        "FIELD3": "56.879635",
+        "FIELD4": "24.603189"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 41.736004,
+        "longitude-latitude": "Lebanon",
+        "FIELD2": "LBN",
+        "FIELD3": "33.854721",
+        "FIELD4": "35.862285"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.621635,
+        "longitude-latitude": "Lesotho",
+        "FIELD2": "LSO",
+        "FIELD3": "-29.609988",
+        "FIELD4": "28.233608"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 88.72287,
+        "longitude-latitude": "Liberia",
+        "FIELD2": "LBR",
+        "FIELD3": "6.428055",
+        "FIELD4": "-9.429499"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 56.273415,
+        "longitude-latitude": "Libya",
+        "FIELD2": "LBY",
+        "FIELD3": "26.3351",
+        "FIELD4": "17.228331"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 84.915764,
+        "longitude-latitude": "Lithuania",
+        "FIELD2": "LTU",
+        "FIELD3": "55.169438",
+        "FIELD4": "23.881275"
+    },
+    {
+        "Entity": "Low-income countries",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.57044
+    },
+    {
+        "Entity": "Lower-middle-income countries",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 49.94998
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 89.09409,
+        "longitude-latitude": "Luxembourg",
+        "FIELD2": "LUX",
+        "FIELD3": "49.815273",
+        "FIELD4": "6.129583"
+    },
+    {
+        "Entity": "Macao",
+        "Code": "MAC",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.37427,
+        "longitude-latitude": "Macao",
+        "FIELD2": "MAC",
+        "FIELD3": "22.198745",
+        "FIELD4": "113.543873"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 93.92477,
+        "longitude-latitude": "Madagascar",
+        "FIELD2": "MDG",
+        "FIELD3": "-18.766947",
+        "FIELD4": "46.869107"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 85.40086,
+        "longitude-latitude": "Malawi",
+        "FIELD2": "MWI",
+        "FIELD3": "-13.254308",
+        "FIELD4": "34.301525"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 66.14451,
+        "longitude-latitude": "Malaysia",
+        "FIELD2": "MYS",
+        "FIELD3": "4.210484",
+        "FIELD4": "101.975766"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 53.483456,
+        "longitude-latitude": "Maldives",
+        "FIELD2": "MDV",
+        "FIELD3": "3.202778",
+        "FIELD4": "73.22068"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 62.271603,
+        "longitude-latitude": "Mali",
+        "FIELD2": "MLI",
+        "FIELD3": "17.570692",
+        "FIELD4": "-3.996166"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 77.76721,
+        "longitude-latitude": "Malta",
+        "FIELD2": "MLT",
+        "FIELD3": "35.937496",
+        "FIELD4": "14.375416"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 45.87875,
+        "longitude-latitude": "Mauritania",
+        "FIELD2": "MRT",
+        "FIELD3": "21.00789",
+        "FIELD4": "-10.940835"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 61.789604,
+        "longitude-latitude": "Mauritius",
+        "FIELD2": "MUS",
+        "FIELD3": "-20.348404",
+        "FIELD4": "57.552152"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 59.11774,
+        "longitude-latitude": "Mexico",
+        "FIELD2": "MEX",
+        "FIELD3": "23.634501",
+        "FIELD4": "-102.552784"
+    },
+    {
+        "Entity": "Middle East and North Africa (WB)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 29.664679
+    },
+    {
+        "Entity": "Middle-income countries",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 64.67915
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 97.002914,
+        "longitude-latitude": "Moldova",
+        "FIELD2": "MDA",
+        "FIELD3": "47.411631",
+        "FIELD4": "28.369885"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.190384,
+        "longitude-latitude": "Mongolia",
+        "FIELD2": "MNG",
+        "FIELD3": "46.862496",
+        "FIELD4": "103.846656"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 76.87666,
+        "longitude-latitude": "Montenegro",
+        "FIELD2": "MNE",
+        "FIELD3": "42.708678",
+        "FIELD4": "19.37439"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 28.447975,
+        "longitude-latitude": "Morocco",
+        "FIELD2": "MAR",
+        "FIELD3": "31.791702",
+        "FIELD4": "-7.09262"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 98.35147,
+        "longitude-latitude": "Mozambique",
+        "FIELD2": "MOZ",
+        "FIELD3": "-18.665695",
+        "FIELD4": "35.529562"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 58.89407,
+        "longitude-latitude": "Myanmar",
+        "FIELD2": "MMR",
+        "FIELD3": "21.913965",
+        "FIELD4": "95.956223"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 87.164536,
+        "longitude-latitude": "Namibia",
+        "FIELD2": "NAM",
+        "FIELD3": "-22.95764",
+        "FIELD4": "18.49041"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 52.769306,
+        "longitude-latitude": "Nepal",
+        "FIELD2": "NPL",
+        "FIELD3": "28.394857",
+        "FIELD4": "84.124008"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 87.73029,
+        "longitude-latitude": "Netherlands",
+        "FIELD2": "NLD",
+        "FIELD3": "52.132633",
+        "FIELD4": "5.291266"
+    },
+    {
+        "Entity": "New Caledonia",
+        "Code": "NCL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 85.825066,
+        "longitude-latitude": "New Caledonia",
+        "FIELD2": "NCL",
+        "FIELD3": "-20.904305",
+        "FIELD4": "165.618042"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 88.17001,
+        "longitude-latitude": "New Zealand",
+        "FIELD2": "NZL",
+        "FIELD3": "-40.900557",
+        "FIELD4": "174.885971"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 59.650867,
+        "longitude-latitude": "Nicaragua",
+        "FIELD2": "NIC",
+        "FIELD3": "12.865416",
+        "FIELD4": "-85.207229"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 73.69582,
+        "longitude-latitude": "Niger",
+        "FIELD2": "NER",
+        "FIELD3": "17.607789",
+        "FIELD4": "8.081666"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.992386,
+        "longitude-latitude": "Nigeria",
+        "FIELD2": "NGA",
+        "FIELD3": "9.081999",
+        "FIELD4": "8.675277"
+    },
+    {
+        "Entity": "North America (WB)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.805244
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 87.34919,
+        "longitude-latitude": "North Korea",
+        "FIELD2": "PRK",
+        "FIELD3": "40.339852",
+        "FIELD4": "127.510093"
+    },
+    {
+        "Entity": "North Macedonia",
+        "Code": "MKD",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 65.82583,
+        "longitude-latitude": "North Macedonia",
+        "FIELD2": "MKD",
+        "FIELD3": "41.608635",
+        "FIELD4": "21.745275"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 89.277,
+        "longitude-latitude": "Norway",
+        "FIELD2": "NOR",
+        "FIELD3": "60.472024",
+        "FIELD4": "8.468946"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 35.537857,
+        "longitude-latitude": "Oman",
+        "FIELD2": "OMN",
+        "FIELD3": "21.512583",
+        "FIELD4": "55.923255"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 30.123203,
+        "longitude-latitude": "Pakistan",
+        "FIELD2": "PAK",
+        "FIELD3": "30.375321",
+        "FIELD4": "69.345116"
+    },
+    {
+        "Entity": "Palestine",
+        "Code": "PSE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 26.268581
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 64.57607,
+        "longitude-latitude": "Panama",
+        "FIELD2": "PAN",
+        "FIELD3": "8.537981",
+        "FIELD4": "-80.782127"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 96.5468,
+        "longitude-latitude": "Papua New Guinea",
+        "FIELD2": "PNG",
+        "FIELD3": "-6.314993",
+        "FIELD4": "143.95555"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 71.6925,
+        "longitude-latitude": "Paraguay",
+        "FIELD2": "PRY",
+        "FIELD3": "-23.442503",
+        "FIELD4": "-58.443832"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.615616,
+        "longitude-latitude": "Peru",
+        "FIELD2": "PER",
+        "FIELD3": "-9.189967",
+        "FIELD4": "-75.015152"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 64.121346,
+        "longitude-latitude": "Philippines",
+        "FIELD2": "PHL",
+        "FIELD3": "12.879721",
+        "FIELD4": "121.774017"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 77.19594,
+        "longitude-latitude": "Poland",
+        "FIELD2": "POL",
+        "FIELD3": "51.919438",
+        "FIELD4": "19.145136"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 86.687805,
+        "longitude-latitude": "Portugal",
+        "FIELD2": "PRT",
+        "FIELD3": "39.399872",
+        "FIELD4": "-8.224454"
+    },
+    {
+        "Entity": "Puerto Rico",
+        "Code": "PRI",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 60.531906,
+        "longitude-latitude": "Puerto Rico",
+        "FIELD2": "PRI",
+        "FIELD3": "18.220833",
+        "FIELD4": "-66.590149"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 66.220665,
+        "longitude-latitude": "Qatar",
+        "FIELD2": "QAT",
+        "FIELD3": "25.354826",
+        "FIELD4": "51.183884"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 68.22618,
+        "longitude-latitude": "Romania",
+        "FIELD2": "ROU",
+        "FIELD3": "45.943161",
+        "FIELD4": "24.96676"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 79.07994,
+        "longitude-latitude": "Russia",
+        "FIELD2": "RUS",
+        "FIELD3": "61.52401",
+        "FIELD4": "105.318756"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 82.70083,
+        "longitude-latitude": "Rwanda",
+        "FIELD2": "RWA",
+        "FIELD3": "-1.940278",
+        "FIELD4": "29.873888"
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Code": "LCA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 82.75007,
+        "longitude-latitude": "Saint Lucia",
+        "FIELD2": "LCA",
+        "FIELD3": "13.909444",
+        "FIELD4": "-60.978893"
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Code": "VCT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 72.72171,
+        "longitude-latitude": "Saint Vincent and the Grenadines",
+        "FIELD2": "VCT",
+        "FIELD3": "12.984305",
+        "FIELD4": "-61.287228"
+    },
+    {
+        "Entity": "Samoa",
+        "Code": "WSM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 61.571228,
+        "longitude-latitude": "Samoa",
+        "FIELD2": "WSM",
+        "FIELD3": "-13.759029",
+        "FIELD4": "-172.104629"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 53.441,
+        "longitude-latitude": "Sao Tome and Principe",
+        "FIELD2": "STP",
+        "FIELD3": "0.18636",
+        "FIELD4": "6.613081"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 42.991203,
+        "longitude-latitude": "Saudi Arabia",
+        "FIELD2": "SAU",
+        "FIELD3": "23.885942",
+        "FIELD4": "45.079162"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 58.57043,
+        "longitude-latitude": "Senegal",
+        "FIELD2": "SEN",
+        "FIELD3": "14.497401",
+        "FIELD4": "-14.452362"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 75.48623,
+        "longitude-latitude": "Serbia",
+        "FIELD2": "SRB",
+        "FIELD3": "44.016521",
+        "FIELD4": "21.005859"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 91.40644,
+        "longitude-latitude": "Sierra Leone",
+        "FIELD2": "SLE",
+        "FIELD3": "8.460555",
+        "FIELD4": "-11.779889"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 81.30234,
+        "longitude-latitude": "Singapore",
+        "FIELD2": "SGP",
+        "FIELD3": "1.352083",
+        "FIELD4": "103.819836"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.505905,
+        "longitude-latitude": "Slovakia",
+        "FIELD2": "SVK",
+        "FIELD3": "48.669026",
+        "FIELD4": "19.699024"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 85.22007,
+        "longitude-latitude": "Slovenia",
+        "FIELD2": "SVN",
+        "FIELD3": "46.151241",
+        "FIELD4": "14.995463"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 95.8019,
+        "longitude-latitude": "Solomon Islands",
+        "FIELD2": "SLB",
+        "FIELD3": "-9.64571",
+        "FIELD4": "160.156194"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 44.647438,
+        "longitude-latitude": "Somalia",
+        "FIELD2": "SOM",
+        "FIELD3": "5.152149",
+        "FIELD4": "46.199616"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 80.08152,
+        "longitude-latitude": "South Africa",
+        "FIELD2": "ZAF",
+        "FIELD3": "-30.559482",
+        "FIELD4": "22.937506"
+    },
+    {
+        "Entity": "South Asia (WB)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 37.21916
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 74.722664,
+        "longitude-latitude": "South Korea",
+        "FIELD2": "KOR",
+        "FIELD3": "35.907757",
+        "FIELD4": "127.766922"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 98.836845,
+        "longitude-latitude": "South Sudan",
+        "FIELD2": "SSD",
+        "FIELD3": "8",
+        "FIELD4": "30"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.898186,
+        "longitude-latitude": "Spain",
+        "FIELD2": "ESP",
+        "FIELD3": "40.463667",
+        "FIELD4": "-3.74922"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 44.145557,
+        "longitude-latitude": "Sri Lanka",
+        "FIELD2": "LKA",
+        "FIELD3": "7.873054",
+        "FIELD4": "80.771797"
+    },
+    {
+        "Entity": "Sub-Saharan Africa (WB)",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.872
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 41.594963,
+        "longitude-latitude": "Sudan",
+        "FIELD2": "SDN",
+        "FIELD3": "12.862807",
+        "FIELD4": "30.217636"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 69.395905,
+        "longitude-latitude": "Suriname",
+        "FIELD2": "SUR",
+        "FIELD3": "3.919305",
+        "FIELD4": "-56.027783"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 89.4566,
+        "longitude-latitude": "Sweden",
+        "FIELD2": "SWE",
+        "FIELD3": "60.128161",
+        "FIELD4": "18.643501"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 85.47378,
+        "longitude-latitude": "Switzerland",
+        "FIELD2": "CHE",
+        "FIELD3": "46.818188",
+        "FIELD4": "8.227512"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 21.97418,
+        "longitude-latitude": "Syria",
+        "FIELD2": "SYR",
+        "FIELD3": "34.802075",
+        "FIELD4": "38.996815"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 61.518116,
+        "longitude-latitude": "Tajikistan",
+        "FIELD2": "TJK",
+        "FIELD3": "38.861034",
+        "FIELD4": "71.276093"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 89.68878,
+        "longitude-latitude": "Tanzania",
+        "FIELD2": "TZA",
+        "FIELD3": "-6.369028",
+        "FIELD4": "34.888822"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 78.79614,
+        "longitude-latitude": "Thailand",
+        "FIELD2": "THA",
+        "FIELD3": "15.870032",
+        "FIELD4": "100.992541"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 93.82317,
+        "longitude-latitude": "Togo",
+        "FIELD2": "TGO",
+        "FIELD3": "8.619543",
+        "FIELD4": "0.824782"
+    },
+    {
+        "Entity": "Tonga",
+        "Code": "TON",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 64.547615,
+        "longitude-latitude": "Tonga",
+        "FIELD2": "TON",
+        "FIELD3": "-21.178986",
+        "FIELD4": "-175.198242"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 71.55992,
+        "longitude-latitude": "Trinidad and Tobago",
+        "FIELD2": "TTO",
+        "FIELD3": "10.691803",
+        "FIELD4": "-61.222503"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 38.37382,
+        "longitude-latitude": "Tunisia",
+        "FIELD2": "TUN",
+        "FIELD3": "33.886917",
+        "FIELD4": "9.537499"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 49.157772,
+        "longitude-latitude": "Turkey",
+        "FIELD2": "TUR",
+        "FIELD3": "38.963745",
+        "FIELD4": "35.243322"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 105.5111,
+        "longitude-latitude": "Turkmenistan",
+        "FIELD2": "TKM",
+        "FIELD3": "38.969719",
+        "FIELD4": "59.556278"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 93.21865,
+        "longitude-latitude": "Uganda",
+        "FIELD2": "UGA",
+        "FIELD3": "1.373333",
+        "FIELD4": "32.290275"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "Year": 2021,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 75.982956,
+        "longitude-latitude": "Ukraine",
+        "FIELD2": "UKR",
+        "FIELD3": "48.379433",
+        "FIELD4": "31.16558"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 58.10307,
+        "longitude-latitude": "United Arab Emirates",
+        "FIELD2": "ARE",
+        "FIELD3": "23.424076",
+        "FIELD4": "53.847818"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 87.532745,
+        "longitude-latitude": "United Kingdom",
+        "FIELD2": "GBR",
+        "FIELD3": "55.378051",
+        "FIELD4": "-3.435973"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 83.25451,
+        "longitude-latitude": "United States",
+        "FIELD2": "USA",
+        "FIELD3": "37.09024",
+        "FIELD4": "-95.712891"
+    },
+    {
+        "Entity": "United States Virgin Islands",
+        "Code": "VIR",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 68.084015,
+        "longitude-latitude": "United States Virgin Islands",
+        "FIELD2": "VIR",
+        "FIELD3": "18.335765",
+        "FIELD4": "-64.896335"
+    },
+    {
+        "Entity": "Upper-middle-income countries",
+        "Code": "",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 77.13116
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 77.94947,
+        "longitude-latitude": "Uruguay",
+        "FIELD2": "URY",
+        "FIELD3": "-32.522779",
+        "FIELD4": "-55.765835"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 54.828125,
+        "longitude-latitude": "Uzbekistan",
+        "FIELD2": "UZB",
+        "FIELD3": "41.377491",
+        "FIELD4": "64.585262"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 77.00462,
+        "longitude-latitude": "Vanuatu",
+        "FIELD2": "VUT",
+        "FIELD3": "-15.376706",
+        "FIELD4": "166.959158"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 54.02317,
+        "longitude-latitude": "Venezuela",
+        "FIELD2": "VEN",
+        "FIELD3": "6.42375",
+        "FIELD4": "-66.58973"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 88.052345,
+        "longitude-latitude": "Vietnam",
+        "FIELD2": "VNM",
+        "FIELD3": "14.058324",
+        "FIELD4": "108.277199"
+    },
+    {
+        "Entity": "World",
+        "Code": "OWID_WRL",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 68.37723
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 8.32393,
+        "longitude-latitude": "Yemen",
+        "FIELD2": "YEM",
+        "FIELD3": "15.552727",
+        "FIELD4": "48.516388"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 77.15529,
+        "longitude-latitude": "Zambia",
+        "FIELD2": "ZMB",
+        "FIELD3": "-13.133897",
+        "FIELD4": "27.849332"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "Year": 2022,
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": 82.73354,
+        "longitude-latitude": "Zimbabwe",
+        "FIELD2": "ZWE",
+        "FIELD3": "-19.015438",
+        "FIELD4": "29.154857"
+    },
+    {
+        "Entity": "Aruba",
+        "longitude-latitude": "Aruba",
+        "FIELD2": "ABW",
+        "FIELD3": "12.52111",
+        "FIELD4": "-69.968338"
+    },
+    {
+        "Entity": "Anguilla",
+        "longitude-latitude": "Anguilla",
+        "FIELD2": "AIA",
+        "FIELD3": "18.220554",
+        "FIELD4": "-63.068615"
+    },
+    {
+        "Entity": "\u00c5land Islands",
+        "longitude-latitude": "\u00c5land Islands",
+        "FIELD2": "ALA",
+        "FIELD3": "60.250716",
+        "FIELD4": "20.374146"
+    },
+    {
+        "Entity": "Andorra",
+        "longitude-latitude": "Andorra",
+        "FIELD2": "AND",
+        "FIELD3": "42.546245",
+        "FIELD4": "1.601554"
+    },
+    {
+        "Entity": "Netherlands Antilles",
+        "longitude-latitude": "Netherlands Antilles",
+        "FIELD2": "ANT",
+        "FIELD3": "12.226079",
+        "FIELD4": "-69.060087"
+    },
+    {
+        "Entity": "American Samoa",
+        "longitude-latitude": "American Samoa",
+        "FIELD2": "ASM",
+        "FIELD3": "-14.270972",
+        "FIELD4": "-170.132217"
+    },
+    {
+        "Entity": "Antarctica",
+        "longitude-latitude": "Antarctica",
+        "FIELD2": "ATA",
+        "FIELD3": "-75.250973",
+        "FIELD4": "-0.071389"
+    },
+    {
+        "Entity": "French Southern Territories",
+        "longitude-latitude": "French Southern Territories",
+        "FIELD2": "ATF",
+        "FIELD3": "-49.280366",
+        "FIELD4": "69.348557"
+    },
+    {
+        "Entity": "French Southern and Antarctic Lands",
+        "longitude-latitude": "French Southern and Antarctic Lands",
+        "FIELD2": "ATF",
+        "FIELD3": "-49.280366",
+        "FIELD4": "69.348557"
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "longitude-latitude": "Antigua and Barbuda",
+        "FIELD2": "ATG",
+        "FIELD3": "17.060816",
+        "FIELD4": "-61.796428"
+    },
+    {
+        "Entity": "Bonaire, Sint Eustatius and Saba",
+        "longitude-latitude": "Bonaire, Sint Eustatius and Saba",
+        "FIELD2": "BES",
+        "FIELD3": "12.183333",
+        "FIELD4": "-68.233333"
+    },
+    {
+        "Entity": "Caribbean Netherlands: Bonaire, Sint Eustatius and Saba",
+        "longitude-latitude": "Caribbean Netherlands: Bonaire, Sint Eustatius and Saba",
+        "FIELD2": "BES",
+        "FIELD3": "12.183333",
+        "FIELD4": "-68.233333"
+    },
+    {
+        "Entity": "The Bahamas",
+        "longitude-latitude": "The Bahamas",
+        "FIELD2": "BHS",
+        "FIELD3": "25.03428",
+        "FIELD4": "-77.39628"
+    },
+    {
+        "Entity": "Saint Barth\u00e9lemy",
+        "longitude-latitude": "Saint Barth\u00e9lemy",
+        "FIELD2": "BLM",
+        "FIELD3": "",
+        "FIELD4": ""
+    },
+    {
+        "Entity": "Bermuda",
+        "longitude-latitude": "Bermuda",
+        "FIELD2": "BMU",
+        "FIELD3": "32.321384",
+        "FIELD4": "-64.75737"
+    },
+    {
+        "Entity": "Bolivia (Plurinational State of)",
+        "longitude-latitude": "Bolivia (Plurinational State of)",
+        "FIELD2": "BOL",
+        "FIELD3": "-16.290154",
+        "FIELD4": "-63.588653"
+    },
+    {
+        "Entity": "Brunei Darussalam",
+        "longitude-latitude": "Brunei Darussalam",
+        "FIELD2": "BRN",
+        "FIELD3": "4.535277",
+        "FIELD4": "114.727669"
+    },
+    {
+        "Entity": "Burma",
+        "longitude-latitude": "Burma",
+        "FIELD2": "BUR",
+        "FIELD3": "21.913965",
+        "FIELD4": "95.956223"
+    },
+    {
+        "Entity": "Bouvet Island",
+        "longitude-latitude": "Bouvet Island",
+        "FIELD2": "BVT",
+        "FIELD3": "-54.423199",
+        "FIELD4": "3.413194"
+    },
+    {
+        "Entity": "Cocos (Keeling) Islands",
+        "longitude-latitude": "Cocos (Keeling) Islands",
+        "FIELD2": "CCK",
+        "FIELD3": "-12.164165",
+        "FIELD4": "96.870956"
+    },
+    {
+        "Entity": "China, People's Republic of",
+        "longitude-latitude": "China, People's Republic of",
+        "FIELD2": "CHN",
+        "FIELD3": "35.86166",
+        "FIELD4": "104.195397"
+    },
+    {
+        "Entity": "C\u00f4te d'Ivoire",
+        "longitude-latitude": "C\u00f4te d'Ivoire",
+        "FIELD2": "CIV",
+        "FIELD3": "7.539989",
+        "FIELD4": "-5.54708"
+    },
+    {
+        "Entity": "Congo, Democratic Republic of the",
+        "longitude-latitude": "Congo, Democratic Republic of the",
+        "FIELD2": "COD",
+        "FIELD3": "-4.038333",
+        "FIELD4": "21.758664"
+    },
+    {
+        "Entity": "Congo [DRC]",
+        "longitude-latitude": "Congo [DRC]",
+        "FIELD2": "COD",
+        "FIELD3": "-4.038333",
+        "FIELD4": "21.758664"
+    },
+    {
+        "Entity": "Zaire",
+        "longitude-latitude": "Zaire",
+        "FIELD2": "ZAR",
+        "FIELD3": "-4.038333",
+        "FIELD4": "21.758664"
+    },
+    {
+        "Entity": "Congo [Republic]",
+        "longitude-latitude": "Congo [Republic]",
+        "FIELD2": "COG",
+        "FIELD3": "-0.228021",
+        "FIELD4": "15.827659"
+    },
+    {
+        "Entity": "Congo, Republic of the",
+        "longitude-latitude": "Congo, Republic of the",
+        "FIELD2": "COG",
+        "FIELD3": "-0.228021",
+        "FIELD4": "15.827659"
+    },
+    {
+        "Entity": "Cook Islands",
+        "longitude-latitude": "Cook Islands",
+        "FIELD2": "COK",
+        "FIELD3": "-21.236736",
+        "FIELD4": "-159.777671"
+    },
+    {
+        "Entity": "Czechoslovakia",
+        "longitude-latitude": "Czechoslovakia",
+        "FIELD2": "CSK",
+        "FIELD3": "49.096397",
+        "FIELD4": "18.11452"
+    },
+    {
+        "Entity": "Cura\u00e7ao",
+        "longitude-latitude": "Cura\u00e7ao",
+        "FIELD2": "CUW",
+        "FIELD3": "12.186111",
+        "FIELD4": "-68.989444"
+    },
+    {
+        "Entity": "Christmas Island",
+        "longitude-latitude": "Christmas Island",
+        "FIELD2": "CXR",
+        "FIELD3": "-10.447525",
+        "FIELD4": "105.690449"
+    },
+    {
+        "Entity": "Cayman Islands",
+        "longitude-latitude": "Cayman Islands",
+        "FIELD2": "CYM",
+        "FIELD3": "19.513469",
+        "FIELD4": "-80.566956"
+    },
+    {
+        "Entity": "Czech Republic",
+        "longitude-latitude": "Czech Republic",
+        "FIELD2": "CZE",
+        "FIELD3": "49.817492",
+        "FIELD4": "15.472962"
+    },
+    {
+        "Entity": "East Germany",
+        "longitude-latitude": "East Germany",
+        "FIELD2": "DDR",
+        "FIELD3": "52.194967",
+        "FIELD4": "12.515583"
+    },
+    {
+        "Entity": "German Democratic Republic",
+        "longitude-latitude": "German Democratic Republic",
+        "FIELD2": "DDR",
+        "FIELD3": "52.194967",
+        "FIELD4": "12.515583"
+    },
+    {
+        "Entity": "West Germany",
+        "longitude-latitude": "West Germany",
+        "FIELD2": "DEU",
+        "FIELD3": "50.609722",
+        "FIELD4": "8.068889"
+    },
+    {
+        "Entity": "Dominica",
+        "longitude-latitude": "Dominica",
+        "FIELD2": "DMA",
+        "FIELD3": "15.414999",
+        "FIELD4": "-61.370976"
+    },
+    {
+        "Entity": "Western Sahara",
+        "longitude-latitude": "Western Sahara",
+        "FIELD2": "ESH",
+        "FIELD3": "24.215527",
+        "FIELD4": "-12.885834"
+    },
+    {
+        "Entity": "Falkland Islands",
+        "longitude-latitude": "Falkland Islands",
+        "FIELD2": "FLK",
+        "FIELD3": "-51.796253",
+        "FIELD4": "-59.523613"
+    },
+    {
+        "Entity": "Falkland Islands [Islas Malvinas]",
+        "longitude-latitude": "Falkland Islands [Islas Malvinas]",
+        "FIELD2": "FLK",
+        "FIELD3": "-51.796253",
+        "FIELD4": "-59.523613"
+    },
+    {
+        "Entity": "Falkland Islands (Malvinas)",
+        "longitude-latitude": "Falkland Islands (Malvinas)",
+        "FIELD2": "FLK",
+        "FIELD3": "-51.796253",
+        "FIELD4": "-59.523613"
+    },
+    {
+        "Entity": "Faroe Islands",
+        "longitude-latitude": "Faroe Islands",
+        "FIELD2": "FRO",
+        "FIELD3": "61.892635",
+        "FIELD4": "-6.911806"
+    },
+    {
+        "Entity": "Micronesia",
+        "longitude-latitude": "Micronesia",
+        "FIELD2": "FSM",
+        "FIELD3": "7.425554",
+        "FIELD4": "150.550812"
+    },
+    {
+        "Entity": "Micronesia, Federated States of",
+        "longitude-latitude": "Micronesia, Federated States of",
+        "FIELD2": "FSM",
+        "FIELD3": "7.425554",
+        "FIELD4": "150.550812"
+    },
+    {
+        "Entity": "Micronesia (Federated States of)",
+        "longitude-latitude": "Micronesia (Federated States of)",
+        "FIELD2": "FSM",
+        "FIELD3": "7.425554",
+        "FIELD4": "150.550812"
+    },
+    {
+        "Entity": "England",
+        "longitude-latitude": "England",
+        "FIELD2": "GB-ENG",
+        "FIELD3": "52.537312",
+        "FIELD4": "-0.845502"
+    },
+    {
+        "Entity": "Northern Ireland",
+        "longitude-latitude": "Northern Ireland",
+        "FIELD2": "GB-NIR",
+        "FIELD3": "54.7",
+        "FIELD4": "-6.7"
+    },
+    {
+        "Entity": "Scotland",
+        "longitude-latitude": "Scotland",
+        "FIELD2": "GB-SCT",
+        "FIELD3": "56.7",
+        "FIELD4": "-4.2"
+    },
+    {
+        "Entity": "Wales",
+        "longitude-latitude": "Wales",
+        "FIELD2": "GB-WLS",
+        "FIELD3": "52.3",
+        "FIELD4": "-3.6"
+    },
+    {
+        "Entity": "United Kingdom of Great Britain and Northern Ireland",
+        "longitude-latitude": "United Kingdom of Great Britain and Northern Ireland",
+        "FIELD2": "GBR",
+        "FIELD3": "55.378051",
+        "FIELD4": "-3.435973"
+    },
+    {
+        "Entity": "Guernsey",
+        "longitude-latitude": "Guernsey",
+        "FIELD2": "GGY",
+        "FIELD3": "49.465691",
+        "FIELD4": "-2.585278"
+    },
+    {
+        "Entity": "Gibraltar",
+        "longitude-latitude": "Gibraltar",
+        "FIELD2": "GIB",
+        "FIELD3": "36.137741",
+        "FIELD4": "-5.345374"
+    },
+    {
+        "Entity": "Guadeloupe",
+        "longitude-latitude": "Guadeloupe",
+        "FIELD2": "GLP",
+        "FIELD3": "16.995971",
+        "FIELD4": "-62.067641"
+    },
+    {
+        "Entity": "The Gambia",
+        "longitude-latitude": "The Gambia",
+        "FIELD2": "GMB",
+        "FIELD3": "13.443182",
+        "FIELD4": "-15.310139"
+    },
+    {
+        "Entity": "Grenada",
+        "longitude-latitude": "Grenada",
+        "FIELD2": "GRD",
+        "FIELD3": "12.262776",
+        "FIELD4": "-61.604171"
+    },
+    {
+        "Entity": "Greenland",
+        "longitude-latitude": "Greenland",
+        "FIELD2": "GRL",
+        "FIELD3": "71.706936",
+        "FIELD4": "-42.604303"
+    },
+    {
+        "Entity": "French Guiana",
+        "longitude-latitude": "French Guiana",
+        "FIELD2": "GUF",
+        "FIELD3": "3.933889",
+        "FIELD4": "-53.125782"
+    },
+    {
+        "Entity": "Heard Island and McDonald Islands",
+        "longitude-latitude": "Heard Island and McDonald Islands",
+        "FIELD2": "HMD",
+        "FIELD3": "-53.08181",
+        "FIELD4": "73.504158"
+    },
+    {
+        "Entity": "Upper Volta",
+        "longitude-latitude": "Upper Volta",
+        "FIELD2": "HVO",
+        "FIELD3": "12.266667",
+        "FIELD4": "-2.066667"
+    },
+    {
+        "Entity": "Isle of Man",
+        "longitude-latitude": "Isle of Man",
+        "FIELD2": "IMN",
+        "FIELD3": "54.236107",
+        "FIELD4": "-4.548056"
+    },
+    {
+        "Entity": "British Indian Ocean Territory",
+        "longitude-latitude": "British Indian Ocean Territory",
+        "FIELD2": "IOT",
+        "FIELD3": "-6.343194",
+        "FIELD4": "71.876519"
+    },
+    {
+        "Entity": "Iran (Islamic Republic of)",
+        "longitude-latitude": "Iran (Islamic Republic of)",
+        "FIELD2": "IRN",
+        "FIELD3": "32.427908",
+        "FIELD4": "53.688046"
+    },
+    {
+        "Entity": "Jersey",
+        "longitude-latitude": "Jersey",
+        "FIELD2": "JEY",
+        "FIELD3": "49.214439",
+        "FIELD4": "-2.13125"
+    },
+    {
+        "Entity": "Kiribati",
+        "longitude-latitude": "Kiribati",
+        "FIELD2": "KIR",
+        "FIELD3": "-3.370417",
+        "FIELD4": "-168.734039"
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "longitude-latitude": "Saint Kitts and Nevis",
+        "FIELD2": "KNA",
+        "FIELD3": "17.357822",
+        "FIELD4": "-62.782998"
+    },
+    {
+        "Entity": "Korea, Republic of (South)",
+        "longitude-latitude": "Korea, Republic of (South)",
+        "FIELD2": "KOR",
+        "FIELD3": "35.907757",
+        "FIELD4": "127.766922"
+    },
+    {
+        "Entity": "Korea, Republic of",
+        "longitude-latitude": "Korea, Republic of",
+        "FIELD2": "KOR",
+        "FIELD3": "35.907757",
+        "FIELD4": "127.766922"
+    },
+    {
+        "Entity": "Lao People's Democratic Republic",
+        "longitude-latitude": "Lao People's Democratic Republic",
+        "FIELD2": "LAO",
+        "FIELD3": "19.85627",
+        "FIELD4": "102.495496"
+    },
+    {
+        "Entity": "Liechtenstein",
+        "longitude-latitude": "Liechtenstein",
+        "FIELD2": "LIE",
+        "FIELD3": "47.166",
+        "FIELD4": "9.555373"
+    },
+    {
+        "Entity": "Ceylon",
+        "longitude-latitude": "Ceylon",
+        "FIELD2": "",
+        "FIELD3": "7.873054",
+        "FIELD4": "80.771797"
+    },
+    {
+        "Entity": "Macau",
+        "longitude-latitude": "Macau",
+        "FIELD2": "MAC",
+        "FIELD3": "22.198745",
+        "FIELD4": "113.543873"
+    },
+    {
+        "Entity": "Saint Martin (French part)",
+        "longitude-latitude": "Saint Martin (French part)",
+        "FIELD2": "MAF",
+        "FIELD3": "18.082502",
+        "FIELD4": "-63.051991"
+    },
+    {
+        "Entity": "Monaco",
+        "longitude-latitude": "Monaco",
+        "FIELD2": "MCO",
+        "FIELD3": "43.750298",
+        "FIELD4": "7.412841"
+    },
+    {
+        "Entity": "Moldova, Republic of",
+        "longitude-latitude": "Moldova, Republic of",
+        "FIELD2": "MDA",
+        "FIELD3": "47.411631",
+        "FIELD4": "28.369885"
+    },
+    {
+        "Entity": "Marshall Islands",
+        "longitude-latitude": "Marshall Islands",
+        "FIELD2": "MHL",
+        "FIELD3": "7.131474",
+        "FIELD4": "171.184478"
+    },
+    {
+        "Entity": "Macedonia [FYROM]",
+        "longitude-latitude": "Macedonia [FYROM]",
+        "FIELD2": "MKD",
+        "FIELD3": "41.608635",
+        "FIELD4": "21.745275"
+    },
+    {
+        "Entity": "Northern Mariana Islands",
+        "longitude-latitude": "Northern Mariana Islands",
+        "FIELD2": "MNP",
+        "FIELD3": "17.33083",
+        "FIELD4": "145.38469"
+    },
+    {
+        "Entity": "Montserrat",
+        "longitude-latitude": "Montserrat",
+        "FIELD2": "MSR",
+        "FIELD3": "16.742498",
+        "FIELD4": "-62.187366"
+    },
+    {
+        "Entity": "Martinique",
+        "longitude-latitude": "Martinique",
+        "FIELD2": "MTQ",
+        "FIELD3": "14.641528",
+        "FIELD4": "-61.024174"
+    },
+    {
+        "Entity": "Mayotte",
+        "longitude-latitude": "Mayotte",
+        "FIELD2": "MYT",
+        "FIELD3": "-12.8275",
+        "FIELD4": "45.166244"
+    },
+    {
+        "Entity": "Norfolk Island",
+        "longitude-latitude": "Norfolk Island",
+        "FIELD2": "NFK",
+        "FIELD3": "-29.040835",
+        "FIELD4": "167.954712"
+    },
+    {
+        "Entity": "Niue",
+        "longitude-latitude": "Niue",
+        "FIELD2": "NIU",
+        "FIELD3": "-19.054445",
+        "FIELD4": "-169.867233"
+    },
+    {
+        "Entity": "Nauru",
+        "longitude-latitude": "Nauru",
+        "FIELD2": "NRU",
+        "FIELD3": "-0.522778",
+        "FIELD4": "166.931503"
+    },
+    {
+        "Entity": "Pitcairn Islands",
+        "longitude-latitude": "Pitcairn Islands",
+        "FIELD2": "PCN",
+        "FIELD3": "-24.703615",
+        "FIELD4": "-127.439308"
+    },
+    {
+        "Entity": "Pitcairn",
+        "longitude-latitude": "Pitcairn",
+        "FIELD2": "PCN",
+        "FIELD3": "-24.703615",
+        "FIELD4": "-127.439308"
+    },
+    {
+        "Entity": "Palau",
+        "longitude-latitude": "Palau",
+        "FIELD2": "PLW",
+        "FIELD3": "7.51498",
+        "FIELD4": "134.58252"
+    },
+    {
+        "Entity": "Korea (Democratic People's Republic of)",
+        "longitude-latitude": "Korea (Democratic People's Republic of)",
+        "FIELD2": "PRK",
+        "FIELD3": "40.339852",
+        "FIELD4": "127.510093"
+    },
+    {
+        "Entity": "Palestine, State of",
+        "longitude-latitude": "Palestine, State of",
+        "FIELD2": "PSE",
+        "FIELD3": "31.952162",
+        "FIELD4": "35.233154"
+    },
+    {
+        "Entity": "Palestinian Territories",
+        "longitude-latitude": "Palestinian Territories",
+        "FIELD2": "PSE",
+        "FIELD3": "31.952162",
+        "FIELD4": "35.233154"
+    },
+    {
+        "Entity": "R\u00e9union",
+        "longitude-latitude": "R\u00e9union",
+        "FIELD2": "REU",
+        "FIELD3": "-21.115141",
+        "FIELD4": "55.536384"
+    },
+    {
+        "Entity": "Rhodesia",
+        "longitude-latitude": "Rhodesia",
+        "FIELD2": "RHO",
+        "FIELD3": "-19.015438",
+        "FIELD4": "29.154857"
+    },
+    {
+        "Entity": "Southern Rhodesia",
+        "longitude-latitude": "Southern Rhodesia",
+        "FIELD2": "RHO",
+        "FIELD3": "-19.015438",
+        "FIELD4": "29.154857"
+    },
+    {
+        "Entity": "Russian Federation",
+        "longitude-latitude": "Russian Federation",
+        "FIELD2": "RUS",
+        "FIELD3": "61.52401",
+        "FIELD4": "105.318756"
+    },
+    {
+        "Entity": "Serbia and Montenegro",
+        "longitude-latitude": "Serbia and Montenegro",
+        "FIELD2": "SCG",
+        "FIELD3": "44.816667",
+        "FIELD4": "20.466667"
+    },
+    {
+        "Entity": "South Georgia and the South Sandwich Islands",
+        "longitude-latitude": "South Georgia and the South Sandwich Islands",
+        "FIELD2": "SGS",
+        "FIELD3": "-54.429579",
+        "FIELD4": "-36.587909"
+    },
+    {
+        "Entity": "Saint Helena, Ascension and Tristan da Cunha",
+        "longitude-latitude": "Saint Helena, Ascension and Tristan da Cunha",
+        "FIELD2": "SHN",
+        "FIELD3": "-24.143474",
+        "FIELD4": "-10.030696"
+    },
+    {
+        "Entity": "Saint Helena",
+        "longitude-latitude": "Saint Helena",
+        "FIELD2": "SHN",
+        "FIELD3": "-24.143474",
+        "FIELD4": "-10.030696"
+    },
+    {
+        "Entity": "Svalbard and Jan Mayen",
+        "longitude-latitude": "Svalbard and Jan Mayen",
+        "FIELD2": "SJM",
+        "FIELD3": "77.553604",
+        "FIELD4": "23.670272"
+    },
+    {
+        "Entity": "San Marino",
+        "longitude-latitude": "San Marino",
+        "FIELD2": "SMR",
+        "FIELD3": "43.94236",
+        "FIELD4": "12.457777"
+    },
+    {
+        "Entity": "Saint Pierre and Miquelon",
+        "longitude-latitude": "Saint Pierre and Miquelon",
+        "FIELD2": "SPM",
+        "FIELD3": "46.941936",
+        "FIELD4": "-56.27111"
+    },
+    {
+        "Entity": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "longitude-latitude": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "FIELD2": "STP",
+        "FIELD3": "0.18636",
+        "FIELD4": "6.613081"
+    },
+    {
+        "Entity": "Soviet Union",
+        "longitude-latitude": "Soviet Union",
+        "FIELD2": "SUN",
+        "FIELD3": "61.52401",
+        "FIELD4": "105.318756"
+    },
+    {
+        "Entity": "Swaziland",
+        "longitude-latitude": "Swaziland",
+        "FIELD2": "SWZ",
+        "FIELD3": "-26.522503",
+        "FIELD4": "31.465866"
+    },
+    {
+        "Entity": "Sint Maarten (Dutch part)",
+        "longitude-latitude": "Sint Maarten (Dutch part)",
+        "FIELD2": "SXM",
+        "FIELD3": "18.04258",
+        "FIELD4": "-63.056017"
+    },
+    {
+        "Entity": "Seychelles",
+        "longitude-latitude": "Seychelles",
+        "FIELD2": "SYC",
+        "FIELD3": "-4.679574",
+        "FIELD4": "55.491977"
+    },
+    {
+        "Entity": "Syrian Arab Republic",
+        "longitude-latitude": "Syrian Arab Republic",
+        "FIELD2": "SYR",
+        "FIELD3": "34.802075",
+        "FIELD4": "38.996815"
+    },
+    {
+        "Entity": "Turks and Caicos Islands",
+        "longitude-latitude": "Turks and Caicos Islands",
+        "FIELD2": "TCA",
+        "FIELD3": "21.694025",
+        "FIELD4": "-71.797928"
+    },
+    {
+        "Entity": "Tokelau",
+        "longitude-latitude": "Tokelau",
+        "FIELD2": "TKL",
+        "FIELD3": "-8.967363",
+        "FIELD4": "-171.855881"
+    },
+    {
+        "Entity": "Timor-Leste",
+        "longitude-latitude": "Timor-Leste",
+        "FIELD2": "TLS",
+        "FIELD3": "-8.874217",
+        "FIELD4": "125.727539"
+    },
+    {
+        "Entity": "Tuvalu",
+        "longitude-latitude": "Tuvalu",
+        "FIELD2": "TUV",
+        "FIELD3": "-7.109535",
+        "FIELD4": "177.64933"
+    },
+    {
+        "Entity": "Taiwan",
+        "longitude-latitude": "Taiwan",
+        "FIELD2": "TWN",
+        "FIELD3": "23.69781",
+        "FIELD4": "120.960515"
+    },
+    {
+        "Entity": "Taiwan, Province of China",
+        "longitude-latitude": "Taiwan, Province of China",
+        "FIELD2": "TWN",
+        "FIELD3": "23.69781",
+        "FIELD4": "120.960515"
+    },
+    {
+        "Entity": "Tanzania, United Republic of",
+        "longitude-latitude": "Tanzania, United Republic of",
+        "FIELD2": "TZA",
+        "FIELD3": "-6.369028",
+        "FIELD4": "34.888822"
+    },
+    {
+        "Entity": "United States of America",
+        "longitude-latitude": "United States of America",
+        "FIELD2": "USA",
+        "FIELD3": "37.09024",
+        "FIELD4": "-95.712891"
+    },
+    {
+        "Entity": "Vatican City",
+        "longitude-latitude": "Vatican City",
+        "FIELD2": "VAT",
+        "FIELD3": "41.902916",
+        "FIELD4": "12.453389"
+    },
+    {
+        "Entity": "Vatican City State",
+        "longitude-latitude": "Vatican City State",
+        "FIELD2": "VAT",
+        "FIELD3": "41.902916",
+        "FIELD4": "12.453389"
+    },
+    {
+        "Entity": "Holy See",
+        "longitude-latitude": "Holy See",
+        "FIELD2": "VAT",
+        "FIELD3": "41.902916",
+        "FIELD4": "12.453389"
+    },
+    {
+        "Entity": "North Vietnam",
+        "longitude-latitude": "North Vietnam",
+        "FIELD2": "VDR",
+        "FIELD3": "21.028333",
+        "FIELD4": "105.854167"
+    },
+    {
+        "Entity": "Viet-Nam, Democratic Republic of",
+        "longitude-latitude": "Viet-Nam, Democratic Republic of",
+        "FIELD2": "VDR",
+        "FIELD3": "21.028333",
+        "FIELD4": "105.854167"
+    },
+    {
+        "Entity": "Venezuela (Bolivarian Republic of)",
+        "longitude-latitude": "Venezuela (Bolivarian Republic of)",
+        "FIELD2": "VEN",
+        "FIELD3": "6.42375",
+        "FIELD4": "-66.58973"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "longitude-latitude": "British Virgin Islands",
+        "FIELD2": "VGB",
+        "FIELD3": "18.420695",
+        "FIELD4": "-64.639968"
+    },
+    {
+        "Entity": "Virgin Islands (British)",
+        "longitude-latitude": "Virgin Islands (British)",
+        "FIELD2": "VGB",
+        "FIELD3": "18.420695",
+        "FIELD4": "-64.639968"
+    },
+    {
+        "Entity": "U.S. Virgin Islands",
+        "longitude-latitude": "U.S. Virgin Islands",
+        "FIELD2": "VIR",
+        "FIELD3": "18.335765",
+        "FIELD4": "-64.896335"
+    },
+    {
+        "Entity": "Virgin Islands (U.S.)",
+        "longitude-latitude": "Virgin Islands (U.S.)",
+        "FIELD2": "VIR",
+        "FIELD3": "18.335765",
+        "FIELD4": "-64.896335"
+    },
+    {
+        "Entity": "Viet Nam",
+        "longitude-latitude": "Viet Nam",
+        "FIELD2": "VNM",
+        "FIELD3": "14.058324",
+        "FIELD4": "108.277199"
+    },
+    {
+        "Entity": "Wallis and Futuna",
+        "longitude-latitude": "Wallis and Futuna",
+        "FIELD2": "WLF",
+        "FIELD3": "-13.768752",
+        "FIELD4": "-177.156097"
+    },
+    {
+        "Entity": "North Yemen",
+        "longitude-latitude": "North Yemen",
+        "FIELD2": "YEM",
+        "FIELD3": "15.354722",
+        "FIELD4": "44.206667"
+    },
+    {
+        "Entity": "South Yemen",
+        "longitude-latitude": "South Yemen",
+        "FIELD2": "YMD",
+        "FIELD3": "12.8",
+        "FIELD4": "45.033333"
+    },
+    {
+        "Entity": "Yugoslavia",
+        "longitude-latitude": "Yugoslavia",
+        "FIELD2": "YUG",
+        "FIELD3": "44.816667",
+        "FIELD4": "20.45"
+    },
+    {
+        "Entity": "Yugoslavia, Federal Republic of",
+        "longitude-latitude": "Yugoslavia, Federal Republic of",
+        "FIELD2": "YUG",
+        "FIELD3": "44.816667",
+        "FIELD4": "20.45"
+    },
+    {
+        "Entity": "Kosovo",
+        "longitude-latitude": "Kosovo",
+        "FIELD2": "",
+        "FIELD3": "42.602636",
+        "FIELD4": "20.902977"
+    },
+    {
+        "Entity": "British Honduras",
+        "longitude-latitude": "British Honduras",
+        "FIELD2": "",
+        "FIELD3": "17.189877",
+        "FIELD4": "-88.49765"
+    },
+    {
+        "Entity": "North Borneo",
+        "longitude-latitude": "North Borneo",
+        "FIELD2": "",
+        "FIELD3": "5.25",
+        "FIELD4": "117"
+    },
+    {
+        "Entity": "Northern Rhodesia",
+        "longitude-latitude": "Northern Rhodesia",
+        "FIELD2": "",
+        "FIELD3": "-13.133897",
+        "FIELD4": "27.849332"
+    },
+    {
+        "Entity": "\u00a0Australasia",
+        "longitude-latitude": "\u00a0Australasia",
+        "FIELD2": "",
+        "FIELD3": "-41.00",
+        "FIELD4": "124.00"
+    },
+    {
+        "Entity": "\u00a0Bohemia",
+        "longitude-latitude": "\u00a0Bohemia",
+        "FIELD2": "",
+        "FIELD3": "49.83",
+        "FIELD4": "14.33"
+    }
+]
