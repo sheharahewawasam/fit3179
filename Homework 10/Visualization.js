@@ -238,8 +238,3 @@ vegaEmbed('#map1', map1Spec).then(function(result) {
   console.log("Map 1 rendered successfully!");
   // Access the Vega view instance as result.view
 }).catch(console.error);
-
-vegaEmbed('#map2', map2Spec).then(function(result) {
-  console.log("Map 2 rendered successfully!");
-  // Access the Vega view instance as result.view
-}).catch(console.error);
