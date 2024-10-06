@@ -3,20 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>World Map Visualizations</title>
+    <title>Rise In Women Employees</title>
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
     
 </head>
 <body>
-    <h1>World Maps</h1>
-
-    <!-- First Map -->
-    <div id="map1"></div>
-
-    <!-- Second Map -->
-    <div id="map2"></div>
+    <h1>Rise In Women Employees</h1>
+    <div>
+      <p>Ratio of female to male labor force participation rate throughout the years </p>
+      <!-- First Map -->
+      <div id="map1"></div>
+    </div>
+    <div id="map1_desc">
+      <p></p>
+    </div>
+    <div>
+      <p>Female-labor-force-by-age in various countries throughout the years</p>
+      <!-- Second Map -->
+      <div id="map2"></div>
+    </div>
+    <p>Xaxis: <span id="valueDisplay"></span></p>
+    <button onclick="increaseValue()">change varibale</button>
+    <div id="map2_desc">
+      <p></p>
+    </div>
 
     <script src="Visualization.js"></script>
 
