@@ -47,11 +47,13 @@ var map1Spec = {
   },
   "layer": [
       {
-          "mark": {"type": "geoshape", "fill": "green", "stroke": "green"},
+          "mark": {"type": "geoshape", "fill": "lightgreen", "stroke": "green"},
+
+          
           "projection": {"type": {"expr": "projection"}}
       },
       {
-          "mark": "circle",
+          "mark": {"type": "point", "fill": "lightblue", "stroke": "blue"},
           "data": {
               "url": "https://raw.githubusercontent.com/sheharahewawasam/fit3179/refs/heads/main/Homework%2010/ratio.json"
           },
@@ -64,7 +66,7 @@ var map1Spec = {
               "size": {
                   "field": "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)",
                   "type": "quantitative",
-                  "scale": {"domain": [0, 200]}
+                  "scale": {"domain": [0, 100]}
               },
               "tooltip": [
                   {"field": "Entity", "type": "nominal"},
