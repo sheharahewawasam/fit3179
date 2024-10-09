@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+    font-size: 1em;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2%;
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#map2_button{
+    align-self: right;
+}
+/*
+p{
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    
+}
+#map1_desc{
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+
+}
+#map2_desc{
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+}
