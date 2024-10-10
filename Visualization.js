@@ -1,6 +1,6 @@
 var map1Spec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Minimum Wage per Day in Local Currency for Each Country in 2023",
+  "title": "Ratio of female to male labor force participation rate throughout the years",
   "width": 800,
   "height": 400,
   "projection": {"type": "equalEarth"},
@@ -59,7 +59,7 @@ var map1Spec = {
         "color": {
           "field": "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)",
           "type": "quantitative",
-          "title": "Minimum Wage per Day (Local Currency)",
+          "title": "Ratio of female to male labor force participation rate (%)",
           "scale": {
             "type": "linear",
             "scheme": "reds"
@@ -70,7 +70,7 @@ var map1Spec = {
           {
             "field": "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)",
             "type": "quantitative",
-            "title": "Minimum Wage per Day"
+            "title": "Ratio of female to male labor force participation rate (%)"
           },
           {"field": "Year", "type": "quantitative"}
         ]
