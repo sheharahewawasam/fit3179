@@ -36,7 +36,7 @@ var map1Spec = {
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/sheharahewawasam/fit3179/refs/heads/main/Homework%2010/ratio-of-female-to-male-labor-force-participation-rates-ilo-wdi.csv",
+        "url": "https://raw.githubusercontent.com/sheharahewawasam/fit3179/refs/heads/Homework-10/ratio-of-female-to-male-labor-force-participation-rates-ilo-wdi.csv",
         "format": {"type": "csv"}
       },
       "transform": [
@@ -108,7 +108,7 @@ function updateMap2Spec() {
       "height": 400,
       "description": "A bar chart with highlighting on hover and selecting on click, with field selectors.",
       "data": {
-          "url": "https://raw.githubusercontent.com/sheharahewawasam/fit3179/refs/heads/main/Homework%2010/female-labor-force-by-age.csv",
+          "url": "https://raw.githubusercontent.com/sheharahewawasam/fit3179/refs/heads/Homework-10/female-labor-force-by-age.csv",
           "format": {"type": "csv"}
       },
       "params": [
