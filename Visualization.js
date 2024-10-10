@@ -40,7 +40,6 @@ var map1Spec = {
         "format": {"type": "csv"}
       },
       "transform": [
-        {"filter": "datum.Year == year"},
         {
           "lookup": "Entity",
           "from": {
