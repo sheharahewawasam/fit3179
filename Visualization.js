@@ -380,7 +380,7 @@ var map4Spec = {
     },
     {
       "name": "entity1",
-      "value": ["Algeria"],
+      "value": ["Australia"],
       "bind": {
         "input": "select",
         "options": countries3,
