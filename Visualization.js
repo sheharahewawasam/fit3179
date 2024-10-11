@@ -314,6 +314,93 @@ var map3Spec = {
 vegaEmbed('#map3', map3Spec).then(function(result) {
   console.log("Map 3 rendered successfully!");
 }).catch(console.error);
+var countries3 = ['Albania', 'Algeria', 'American Samoa', 'Angola', 'Anguilla',
+  'Antigua and Barbuda', 'Argentina', 'Armenia', 'Aruba',
+  'Australia', 'Austria', 'Azerbaijan', 'Bahamas', 'Bahrain',
+  'Bangladesh', 'Barbados', 'Belarus', 'Belgium', 'Belize', 'Benin',
+  'Bermuda', 'Bhutan', 'Bolivia', 'Bosnia and Herzegovina',
+  'Botswana', 'Brazil', 'Brunei', 'Bulgaria', 'Burkina Faso',
+  'Burundi', 'Cambodia', 'Cameroon', 'Canada', 'Cayman Islands',
+  'Chile', 'Colombia', 'Comoros', 'Congo', 'Cook Islands',
+  'Costa Rica', "Cote d'Ivoire", 'Croatia', 'Cuba', 'Cyprus',
+  'Czechia', 'Czechoslovakia', 'Denmark', 'Dominica',
+  'Dominican Republic', 'East Timor', 'Ecuador', 'Egypt',
+  'El Salvador', 'Equatorial Guinea', 'Estonia', 'Ethiopia',
+  'Falkland Islands', 'Faroe Islands', 'Fiji', 'Finland', 'France',
+  'French Polynesia', 'Gabon', 'Gambia', 'Georgia', 'Germany',
+  'Ghana', 'Greece', 'Greenland', 'Grenada', 'Guatemala', 'Guernsey',
+  'Guinea', 'Guyana', 'Haiti', 'Honduras', 'Hong Kong', 'Hungary',
+  'Iceland', 'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland',
+  'Isle of Man', 'Israel', 'Italy', 'Jamaica', 'Japan', 'Jordan',
+  'Kazakhstan', 'Kenya', 'Kiribati', 'Kosovo', 'Kuwait',
+  'Kyrgyzstan', 'Laos', 'Latvia', 'Lesotho', 'Liberia',
+  'Liechtenstein', 'Lithuania', 'Luxembourg', 'Macau, China',
+  'Madagascar', 'Malaysia', 'Maldives', 'Mali', 'Malta',
+  'Marshall Islands', 'Martinique', 'Mauritius', 'Mexico', 'Moldova',
+  'Mongolia', 'Montenegro', 'Montserrat', 'Morocco', 'Mozambique',
+  'Myanmar', 'Namibia', 'Nepal', 'Netherlands',
+  'Netherlands Antilles', 'New Caledonia', 'New Zealand',
+  'Nicaragua', 'Niger', 'Nigeria', 'Niue', 'North Macedonia',
+  'Northern Mariana Islands', 'Norway', 'Oman', 'Pakistan', 'Palau',
+  'Palestine', 'Panama', 'Papua New Guinea', 'Paraguay', 'Peru',
+  'Philippines', 'Poland', 'Portugal', 'Puerto Rico', 'Qatar',
+  'Reunion', 'Romania', 'Russia', 'Rwanda', 'Saint Helena',
+  'Saint Kitts and Nevis', 'Saint Lucia',
+  'Saint Pierre and Miquelon', 'Samoa', 'San Marino',
+  'Sao Tome and Principe', 'Saudi Arabia', 'Senegal', 'Serbia',
+  'Seychelles', 'Sierra Leone', 'Singapore', 'Slovakia', 'Slovenia',
+  'South Africa', 'South Korea', 'Spain', 'Sri Lanka', 'Suriname',
+  'Sweden', 'Switzerland', 'Syria', 'Taiwan', 'Tajikistan',
+  'Tanzania', 'Thailand', 'Togo', 'Tonga', 'Trinidad and Tobago',
+  'Tunisia', 'Turkey', 'Uganda', 'Ukraine', 'United Arab Emirates',
+  'United Kingdom', 'United States', 'Uruguay', 'Uzbekistan',
+  'Vanuatu', 'Venezuela', 'Vietnam', 'Yemen', 'Zambia', 'Zimbabwe']
+var map4Spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Pie Chart with percentage_tooltip",
+  "data": {"url":"https://raw.githubusercontent.com/sheharahewawasam/fit3179/refs/heads/Visualization_II/Transformed_Female_Share_Employment_By_Sector.csv"
+  },
+  "params":[
+    {
+      "name": "year",
+      "value": 1991,
+      "bind": {
+        "input": "select",
+        "options": [
+          1970,
+          1971,1972,1973,1974,1975,1976,1977,1978,1979,
+          1980,
+          1981,1982,1983,1984,1985,1986,1987,1988,1989,
+          1990,
+          1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000,
+          2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
+          2011, 2012, 2013, 2014, 2015, 2016
+        ]
+      }
+    },
+    {
+      "name": "entity1",
+      "value": ["Algeria"],
+      "bind": {
+        "input": "select",
+        "options": countries3,
+        "name": "Select Entity: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter":"datum.Entity == entity1"},
+    {"filter":"datum.Year == year"}
+  ],
+  "mark": {"type": "arc", "tooltip": true},
+  "encoding": {
+    "theta": {"field": "Female share employment", "type": "quantitative", "stack": "normalize"},
+    "color": {"field": "Sector", "type": "nominal"}
+  }
+};
+vegaEmbed('#map4', map4Spec).then(function(result) {
+  console.log("Map 4 rendered successfully!");
+}).catch(console.error);
   
 
 // Embed both maps
